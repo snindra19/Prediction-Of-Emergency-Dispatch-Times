@@ -1,0 +1,11 @@
+                     CAD_EVNT_ID  GEO_CD_X  GEO_CD_Y  Latitude  Longitude      hour  temperature_2m (°C)  precipitation (mm)  rain (mm)  TIM_MIN
+CAD_EVNT_ID             1.000000       NaN       NaN       NaN        NaN       NaN                  NaN                 NaN        NaN      NaN
+GEO_CD_X               -0.004930  1.000000       NaN       NaN        NaN       NaN                  NaN                 NaN        NaN      NaN
+GEO_CD_Y               -0.006522  0.273846  1.000000       NaN        NaN       NaN                  NaN                 NaN        NaN      NaN
+Latitude               -0.006520  0.273257  1.000000  1.000000        NaN       NaN                  NaN                 NaN        NaN      NaN
+Longitude              -0.004934  0.999999  0.274946  0.274357   1.000000       NaN                  NaN                 NaN        NaN      NaN
+hour                    0.019804 -0.000397 -0.030804 -0.030813  -0.000430  1.000000                  NaN                 NaN        NaN      NaN
+temperature_2m (°C)     0.394773 -0.105482 -0.017843 -0.017790  -0.105472  0.330424             1.000000                 NaN        NaN      NaN
+precipitation (mm)      0.035899 -0.012217  0.008350  0.008357  -0.012219  0.062934             0.001350             1.00000        NaN      NaN
+rain (mm)               0.035899 -0.012217  0.008350  0.008357  -0.012219  0.062934             0.001350             1.00000    1.00000      NaN
+TIM_MIN                 0.002811  0.079027  0.021735  0.021679   0.079097  0.055130             0.041132            -0.00033   -0.00033      1.0

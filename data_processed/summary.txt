@@ -1,0 +1,50 @@
+Summary Statistics for 'Latitude':
+  Min: 40.498596
+  Max: 40.911634
+  Median: 40.722997
+  Mean: 40.72852291181129
+
+Summary Statistics for 'Longitude':
+  Min: -74.25456
+  Max: -73.700291
+  Median: -73.930919
+  Mean: -73.92481207009662
+
+Summary Statistics for 'TIM_MIN':
+  Min: 0.0166666666666666
+  Max: 179.98333333333332
+  Median: 10.483333333333333
+  Mean: 27.64217419060183
+
+Summary Statistics for 'temperature_2m (°C)':
+  Min: 13.0
+  Max: 36.0
+  Median: 23.0
+  Mean: 23.020195182576185
+
+Summary Statistics for 'rain (mm)':
+  Min: 0.0
+  Max: 17.0
+  Median: 0.0
+  Mean: 0.11718442002964412
+
+Summary Statistics for 'REAS_CTGRY':
+  Number of unique values: 54
+  Most frequent value: INVESTIGATE/POSSIBLE CRIME
+  Least frequent value: SUSP LETTER
+
+Summary Statistics for 'PATRL_BORO_NM':
+  Number of unique values: 8
+  Most frequent value: PATROL BORO BRONX
+  Least frequent value: PATROL BORO STATEN ISLAND
+
+Summary Statistics for 'NYPD_PCT_CD':
+  Number of unique values: 77
+  Most frequent value: 75.0
+  Least frequent value: 22.0
+
+Summary Statistics for 'BORO_NM':
+  Number of unique values: 5
+  Most frequent value: BROOKLYN
+  Least frequent value: STATEN ISLAND
+
