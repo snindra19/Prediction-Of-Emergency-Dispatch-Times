@@ -1,0 +1,5 @@
+Model(Evaluation)		MAE		RMSE		R^2
+XGBoost   (Model)		14.7304	4.4158	0.0827
+RandomForest (RF)		14.7620	4.4512	0.0529
+Ridge  Regression		15.4326	4.4823	0.0262
+Stacking -  Model		14.5082	4.3963	0.0988
